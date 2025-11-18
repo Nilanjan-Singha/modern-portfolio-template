@@ -4,6 +4,19 @@ A clean, responsive, and modern personal portfolio template built with React, Ty
 
 ***
 
+## Live Preview
+
+Check out the live demo here: [click me](https://modern-portfolio-2025.netlify.app/)
+
+---
+
+## Screenshot
+
+![Full page](/public/screenshot-full.png)
+
+---
+
+
 ## Features
 
 - **React + TypeScript:** Strongly typed and scalable codebase for maintainability.
@@ -96,11 +109,11 @@ MIT License — feel free to use and modify this template for your personal or p
 
 ***
 
-## Contact
+## ADDITIONAL INFO
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+To intialize the template, I myself used [this](https://github.com/hayyi2/react-shadcn-starter) and made some changes and removed uncessary stuff. But some things still remain, so you should change that like in package.json and all. 
+
+
 
 ***
 
